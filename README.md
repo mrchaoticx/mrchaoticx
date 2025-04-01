@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mrchaoticx
 - 👀 I’m interested in developing websites and modeling assets for games.
-- 🌱 I’m currently learning Lua the Roblox game engine.
-- 💞️ I’m looking to collaborate on map design for games and projects with high standards.
+- 🌱 I’m currently learning how to market my service and knowledge properly.
+- 💞️ I’m looking to build meaningful communities with opportunity.
 - 📫 How to reach me westberginc1@gmail.com, https://discord.gg/CgETaWMukv
 - ⚡ Fun fact: I'm building up a small community online to have fun with.
 
